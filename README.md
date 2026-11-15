@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Employee-Engagement-Pulse-Surveys" alt="License" /></a>
@@ -84,7 +84,7 @@ The sector is **moderately fragmented**:
 
 *Self-hostable engagement suites, privacy-preserving pulse survey engines, competency management tools, and validated survey taxonomies. Sorted descending by GitHub stargazers count.*
 
-| 📦 Repository | ⭐ Star Badge | 🛠️ Tech Stack & Focus | 📝 Description |
+| 📦 Repository | ⭐ Stars_Badge | 🛠️ Tech Stack & Focus | 📝 Description |
 |---|---|---|---|
 | **[Formbricks](https://github.com/formbricks/formbricks)** | [![Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) | TypeScript, Next.js, Tailwind CSS, Prisma | **The most versatile open-source survey platform for employee & user feedback.** Full experience management suite: distribute in-app, link, or email pulse surveys; analyze aggregated sentiment with rich dashboards; and trigger automated webhooks. Self-hostable with APIs and SDKs. |
 | **[Meeds](https://github.com/Meeds-io/meeds)** | [![Stars](https://img.shields.io/github/stars/Meeds-io/meeds?style=social&color=white)](https://github.com/Meeds-io/meeds/stargazers) | Java, Vue.js, Docker, Web3 | **Open-source decentralized employee engagement & recognition platform.** Fosters employee engagement, peer recognition, and workplace community through gamified recognition hubs, social kudos, and reward structures. |
